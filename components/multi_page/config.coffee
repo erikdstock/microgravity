@@ -11,3 +11,10 @@ module.exports =
       'Payments and Shipping': 'how-auctions-work-payments-and-shipping'
       'Emails and alerts': 'how-auctions-work-emails-and-alerts'
       'Conditions of sale': 'how-auctions-work-conditions-of-sale'
+  'consignment-faqs':
+    title: 'Consignment FAQs'
+    description: ''
+    pages:
+      'Overview': 'consignments-faq-overview'
+      'Fees & Estimates': 'consignments-faq-fees-and-estimates'
+      'Consignment Agreement': 'consignments-faq-consignment-agreement'
